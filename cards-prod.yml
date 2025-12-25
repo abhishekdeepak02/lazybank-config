@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Cards Service- PROD Support"
+  message: "Welcome to the Cards Service- production Support system"
   contactDetails:
     name: "Abhishek Deepak"
     phone: "123-456-7890"
