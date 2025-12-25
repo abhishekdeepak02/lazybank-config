@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: Welcome to Lazy Bank production - Account"
+  message: Hey Folks, Welcome to Lazy Bank production - Account"
   contactDetails:
     name: "John Doe - Prod Manager"
     phone: "+91-1234567890"
