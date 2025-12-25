@@ -6,7 +6,7 @@ account:
   contactDetails:
     name: "John Doe - Prod Manager"
     phone: "+91-1234567890"
-    email: "joedoe@lazybank.co.in"
+    email: "(cipher)531ed0771d4320b9fdc0888ec6405dc904ad0410ef164bcc0cd7e5740520e52a4ecfcb0954ee9966488be703aa0e19d7"
   onCallSupport:
     - (555) 222-4567
     - (555) 543-6543
