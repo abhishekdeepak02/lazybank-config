@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 loan:
-  message: Welcome to Lazy Bank Test - Loan Department"
+  message: "Hey There, Welcome to Lazy Bank Test - Loan Department"
   contactDetails:
     name: "Sunit Patel - QA"
     email: "spatel@lazybank.co.in"
