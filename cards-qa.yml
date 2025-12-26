@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to the Cards Service- QA Support"
+  message: "Welcome to the Cards Service- quality analysis Support"
   contactDetails:
     name: "Jaslin Kaur"
     phone: "123-456-7890"
